@@ -147,6 +147,16 @@ form button:hover {
   transform: scale(1.1);
 }
 
+.modal-wrapper.open p {
+  text-align: center;
+  color: #333639;
+  margin-top: 1rem;
+}
+
+.modal-wrapper.open span {
+  font-weight: bold;
+}
+
 
 /* alert error */
 .alert-error.open {
