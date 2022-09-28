@@ -11,3 +11,4 @@ after entering these values, the project will show you the final result.
 * CSS
 * JAVASCRIPT
 
+<img src="./assets/imc01.png">
